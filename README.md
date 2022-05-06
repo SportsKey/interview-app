@@ -5,6 +5,12 @@ Up and running:
 ```
 bundle
 yarn
-bundle exec rails db:migrate
-bundle exec foreman start
+rails db:migrate
+rspec spec
+foreman start
 ```
+
+Gems:
+
+* [country_select](https://github.com/countries/country_select)
+* [countries](https://github.com/countries/countries)
