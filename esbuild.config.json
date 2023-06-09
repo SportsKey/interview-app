@@ -1,0 +1,7 @@
+{
+  "entry": "app/javascript/*.*",
+  "bundle": true,
+  "sourcemap": true,
+  "outdir": "app/assets/builds",
+  "public-path": "assets"
+}
