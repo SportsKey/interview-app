@@ -1,5 +1,6 @@
 class UsersController < ApplicationController
   def index
+    @users = User.all
   end
 
   def edit
@@ -15,6 +16,6 @@ class UsersController < ApplicationController
   private
 
   def user_params
-    params.require(:user).permit(:id, :email, :country_code)
+    params.require(:user).permit(:id, :first_name, :last_name, :email, :country_code)
   end
 end
