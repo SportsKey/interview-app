@@ -1,7 +1,6 @@
-%h1 Edit User "#{@user.full_name}"
+%h2 Edit User "#{@user.full_name}"
 
 = form_for(@user) do |f|
-
   = f.text_field :first_name
   = f.text_field :last_name
   = f.email_field :email
