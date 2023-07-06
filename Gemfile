@@ -22,7 +22,7 @@ gem 'jbuilder', '~> 2.7'
 
 gem "sprockets"
 gem 'haml-rails'
-gem 'country_select'
+gem 'countries'
 gem 'net-smtp'
 gem 'jsbundling-rails'
 

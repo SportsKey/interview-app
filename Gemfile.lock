@@ -74,8 +74,6 @@ GEM
     concurrent-ruby (1.2.2)
     countries (5.4.0)
       unaccent (~> 0.3)
-    country_select (8.0.1)
-      countries (~> 5.0)
     crass (1.0.6)
     date (3.3.3)
     diff-lcs (1.5.0)
@@ -230,7 +228,7 @@ PLATFORMS
 DEPENDENCIES
   bootsnap (>= 1.4.4)
   byebug
-  country_select
+  countries
   foreman
   haml-rails
   jbuilder (~> 2.7)
