@@ -6,6 +6,7 @@ Up and running:
 bundle
 yarn
 rails db:migrate
+rails assets:build
 rspec spec
 foreman start
 ```
