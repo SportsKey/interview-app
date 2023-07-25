@@ -16,8 +16,9 @@ ActiveRecord::Schema[7.0].define(version: 2023_06_19_135053) do
     t.text "country_code"
     t.text "first_name"
     t.text "last_name"
-    t.string "full_name"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.string "full_name"
   end
+
 end
