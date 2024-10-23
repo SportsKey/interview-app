@@ -126,26 +126,26 @@
   integrity sha512-Dcu+NaSvHLT7EjrDrkEmH4qET2ZJZ5IcCWmNXxNQTBwlnE5tBZfN6WxZ842n5cHV52DH/AKNirbPBtcEXDLW4g==
 
 "@rails/actioncable@^6.0.0":
-  version "6.1.5"
-  resolved "https://registry.yarnpkg.com/@rails/actioncable/-/actioncable-6.1.5.tgz#c24ec8123a8e7e239ceabda29078df9c93752394"
-  integrity sha512-bV4/Q7NweGFm7t3GvUFm19UF2WKmcvlOXy7AxMWEZCwDxQLagAXhUpKb1AJ6Rg88cPHqXSQHaGKr84lIMd607A==
+  version "6.1.709"
+  resolved "https://registry.yarnpkg.com/@rails/actioncable/-/actioncable-6.1.709.tgz#4c4817a8a128f7816430074f399aad3a0d4bef01"
+  integrity sha512-SkwXts+6yBaEHwN63AYF1r7lt5bJsqBziaJhlE91y+3UjPl0T/aIssWVitbzAHF4YrLWh43jrdsLoYUpymlW7Q==
 
 "@rails/actioncable@^7.0":
-  version "7.0.5"
-  resolved "https://registry.yarnpkg.com/@rails/actioncable/-/actioncable-7.0.5.tgz#bbc11203e0d3d5084002abfcf01d621fdf5f3a9d"
-  integrity sha512-SOBA2heB9lTw0VYIx8M/ed7inSf4I9sR8OIlJprhgkfQ3WJtrxPJ6DDATR1Z3RYaIR7HlT2Olj08v1lfGIGuHA==
+  version "7.2.101"
+  resolved "https://registry.yarnpkg.com/@rails/actioncable/-/actioncable-7.2.101.tgz#d0544b1bc51d420c1bb27f3281ccae54945e70f6"
+  integrity sha512-YgFCyD+9mBhpJdfgf4QtJwk+vZbByVMXsEGREM6GrPk9A1pYXkkIpzYd3+843E+33e3S81yywhqZc3DyrZGPSg==
 
 "@rails/activestorage@^6.0.0":
-  version "6.1.5"
-  resolved "https://registry.yarnpkg.com/@rails/activestorage/-/activestorage-6.1.5.tgz#a43929573b2ffae54857ffa3b7ac1988af42b681"
-  integrity sha512-7L0eWqrguZIyvfPOpVoZRChuIgxbpBdwdVtprT6wrl5rUAbdyHr6AZczl1yS+5d6nBV0TqpVLaB1sGxi2aMbCQ==
+  version "6.1.709"
+  resolved "https://registry.yarnpkg.com/@rails/activestorage/-/activestorage-6.1.709.tgz#c66692f4553b3b0c935b512f3ca7d81852d90092"
+  integrity sha512-y60WjFMOyxSVKZfmETXtvt3ivPVs+meXA2O5MRypVP6zmz4YKSQnvaGAM0iPG1eOmTQ+MumWbxKo8sUGP4wMlA==
   dependencies:
     spark-md5 "^3.0.0"
 
 "@rails/ujs@^6.0.0":
-  version "6.1.5"
-  resolved "https://registry.yarnpkg.com/@rails/ujs/-/ujs-6.1.5.tgz#bb1afddd0d771f00924f44b21634969e329532e1"
-  integrity sha512-Ir4yd2fdDldWIghavPr874copVKf6OOoecKHZiFRlPtm38tFvhyxr+ywzNieXGwolF9JQe3D5GrM8ejkzUgh5Q==
+  version "6.1.709"
+  resolved "https://registry.yarnpkg.com/@rails/ujs/-/ujs-6.1.709.tgz#08a09c83b389f1db07bdd67dc7d997807e4732e7"
+  integrity sha512-Hj7Zbxa3a8dtnia6ZFcva9zxgBaDaHV196GcXtsNJJ6uinvmUX+7kGcWGnvnrUwaLdDvoRo+MG2aGPlet1zQBw==
 
 esbuild@^0.17.19:
   version "0.17.19"

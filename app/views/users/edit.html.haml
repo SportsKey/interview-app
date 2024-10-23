@@ -1,8 +1,7 @@
-%h1 Edit User
+
+%h1 Edit User (HAML)
 
 = form_for(@user) do |f|
-
-  = f.email_field :email
+  = f.email_field :email, placeholder: "Email"
   = f.select :country_code, collection: ISO3166::Country.all.map { |c| [c.translations["en"], c.alpha2] }
-
   = f.submit "Save"

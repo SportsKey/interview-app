@@ -6,10 +6,16 @@ Up and running:
 bundle
 yarn
 rails db:migrate
-foreman start
+```
+
+Run the specs:
+
+```
 rspec spec
 ```
 
-Gems:
+Start it up!
 
-* [countries](https://github.com/countries/countries)
+```
+./bin/dev/
+```
