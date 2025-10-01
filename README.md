@@ -1,24 +1,21 @@
-# README
+# Interview App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Rails 8.0 application.
 
-Things you may want to cover:
+## Getting Started
 
-* Ruby version
+```bash
+# Setup the application
+bin/setup
 
-* System dependencies
+# Start the server
+bin/rails server
+```
 
-* Configuration
+Visit http://localhost:3000
 
-* Database creation
+## Testing
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```bash
+bin/rails test
+```
